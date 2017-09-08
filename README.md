@@ -1,0 +1,2 @@
+# DispatchTouchEvent
+Android中onInterceptTouchEvent、dispatchTouchEvent及onTouchEvent的调用顺序研究，具体参考Blog：http://blog.csdn.net/hty1053240123/article/details/77866302
